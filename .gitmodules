@@ -2,5 +2,5 @@
 	path = pelican-alchemy
 	url = git@github.com:nceder/pelican-alchemy.git
 [submodule "output"]
-	path = nceder.github.io
+	path = output
 	url = git@github.com:nceder/nceder.github.io.git
