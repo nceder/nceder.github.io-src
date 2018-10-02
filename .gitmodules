@@ -1,3 +1,6 @@
 [submodule "pelican-alchemy"]
 	path = pelican-alchemy
 	url = git@github.com:nceder/pelican-alchemy.git
+[submodule "output"]
+	path = nceder.github.io
+	url = git@github.com:nceder/nceder.github.io.git
