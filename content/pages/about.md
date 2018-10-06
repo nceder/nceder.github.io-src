@@ -1,13 +1,10 @@
 Template:page
-Title: About
+Title: About Naomi
 Slug: about
 Summary: about
 
 
-# Naomi Ceder
-
 Naomi Ceder is the author of The Quick Python Book, Third Edition.
-The interview was conducted by Frances Lefkowitz, a Development Editor at Manning Publications.
 Naomi Ceder earned a Ph.D in Classics, but, since 2001, has been learning, teaching, and using Python. An elected fellow of the Python Software Foundation, Naomi currently serves as chair of its board of directors. She also speaks internationally about the Python community, and on inclusion and diversity in technology in general. By day she leads a team of Python programmers for Dick Blick Art Materials, and in her spare time she enjoys sketching, knitting, and deep philosophical conversations with her dog.
 
 ## Contact Naomi:
